@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: ABFD\n"
+"X-Crowdin-Project-ID: 425920\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /main/crowdin/nqtr_tool/nav_label_fun.po\n"
+"X-Crowdin-File-ID: 7577\n"
+"Project-Id-Version: ABFD\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2023-09-19 16:02\n"
+
+# TODO: Translation updated at 2023-09-17 12:33 #|#|# # §translate crowdin strings: #|#|# # game/nqtr_tool/nav_label_fun.rpy:9
+msgid "Now is not the time to go outside"
+msgstr ""
+

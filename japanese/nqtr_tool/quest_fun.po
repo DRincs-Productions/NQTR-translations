@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: ABFD\n"
+"X-Crowdin-Project-ID: 425920\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /main/crowdin/nqtr_tool/quest_fun.po\n"
+"X-Crowdin-File-ID: 7579\n"
+"Project-Id-Version: ABFD\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"PO-Revision-Date: 2023-09-19 16:03\n"
+
+# TODO: Translation updated at 2023-09-17 12:33 #|#|# # §translate crowdin strings: #|#|# # game/nqtr_tool/quest_fun.rpy:1
+msgid "A new quest began"
+msgstr ""
+
+# game/nqtr_tool/quest_fun.rpy:2
+msgid "The quest has been updated"
+msgstr ""
+
